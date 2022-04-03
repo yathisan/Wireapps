@@ -1,0 +1,78 @@
+h1{
+    /* Modern Walk */
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: initial;
+    text-align: center;
+    font-weight: bold;
+color: #0E0E0E;
+font-size: 250%;
+}
+a{
+    text-decoration: none;
+}
+.line{
+    border: 2px solid rgb(209, 209, 209);
+}
+
+h3{
+    /* Flash Sale */
+
+    font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+margin-left: 5%;
+color: #0E0E0E;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+overflow: hidden;
+padding: 20px;
+
+}
+th{
+    height: 250px;
+    width: 25%;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background: #FFFFFF;
+box-shadow: 0px -10px 20px rgba(0, 0, 0, 0.15);
+margin: 10px;
+margin-left: 10%;
+
+}
+.menim{
+    object-fit: cover;
+    object-position: center;
+    
+}
+td{
+    padding: 25px;
+    
+}
+h4{
+    
+font-style: normal;
+color: #0E42FD;
+}
+
+.blue{
+    
+    background: #2BD9AF;
+border-radius: 50px 50px 50px 50px;
+box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.15);
+}
+.red{
+    background: #FF5E84;
+border-radius: 50px 50px 50px 50px;
+}
+span{
+    font-weight: bold;
+    font-style: normal;
+    color: #0E42FD;
+    }
+    p{
+        line-height: 25px;
+    }
